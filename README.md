@@ -1,6 +1,6 @@
 Hi everyone,
 
-This is a project which is awesome!
+This is an awesome project!
 
 Cheers,
 xiaojiantou
